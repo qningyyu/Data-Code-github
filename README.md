@@ -9,6 +9,7 @@ Files included
 1. YouTube transcripts: the files named “3 months ago, how to articulate your thoughts”, “8 October communication skills”, and “August 1 communication skills” are my additional libraries added to my chatbot to improve the relevance and contemporary of my chatbot.
 2. Family law document: This file details the latest family laws, integrated into the chatbot for legal awareness and contextuality.
 3. Requirement file: I listed all the Python libraries and the required versions to run my project.
+4. My five-minute walk-through video transcript
 
 Prerequisite
 
